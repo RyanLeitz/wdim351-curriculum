@@ -11,3 +11,7 @@
 1. Push this change back up to your repo (`git push origin master`).
 
 ## Your paragraph here:
+
+A Modern Web Designer's Workflow:
+
+I chose this article thinking it would be focusing on design techniques, trends, and whatnot for 2013… but that was only the first few slides. And those slides ended with 'Can't design? Hire on Dribbble'. So that section wasn't too helpful. The rest of the article went on to discuss what happens after design, so I read on. Github was the next topic, along with the importance of version control. I'm not too familiar with Github but I'm sure we'll be talking about that more in class. The next step in the workflow was getting to know your code editor, and the one Coyier recommended was Sublime Text 2. I don't spend a lot of my time in code editors, but when I do it's Sublime text 2, so that was reassuring. He then went on to talk about new css tricks…  a lot of this was new to me. Next topic: image compressing. I know a fair amount about this so not much was learned here. Finally he left a set of links for browser testing. This was helpful, and I'm sure really really helpful for people that do more coding than myself.
